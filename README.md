@@ -1,6 +1,35 @@
-### Hi there 👋
-#### Hola
+# Indice de prácticas
+- [Practica 1. Logs centralizados](./practica1.md)  
+- [Práctica 2. Política de contraseñas ](./)  
+- [Práctica 3. Permisos-Reglas ACL](:/)  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 <!--
 **Machancoses/Machancoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
