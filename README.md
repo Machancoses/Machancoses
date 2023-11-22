@@ -1,7 +1,11 @@
 # Indice de prácticas
 - [Practica 1. Logs centralizados](./practica1.md)  
-- [Práctica 2. Política de contraseñas ](./)  
-- [Práctica 3. Permisos-Reglas ACL](:/)  
+- [Práctica 2. Política de contraseñas ](2.md) 
+- [Práctica 3. Permisos-Reglas ACL](3.md) 
+- [Práctica 4. Raids y LVm](4.md)
+- [Práctica 5. Certificado TLS](./5.md)
+- [Práctica 6. Hardering Apache](./6.md)
+  
 
 
 
