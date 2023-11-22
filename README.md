@@ -1,4 +1,5 @@
 # Indice de prácticas
+
 - [Practica 1. Logs centralizados](./practica1.md)  
 - [Práctica 2. Política de contraseñas ](2.md) 
 - [Práctica 3. Permisos-Reglas ACL](3.md) 
